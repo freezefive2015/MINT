@@ -1,6 +1,6 @@
 {
     "CONTRACT_ADDRESS": "0x35ce9acA84fD0A83C693B80C4F6B1A2cAE506D70",
-    "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x35ce9acA84fD0A83C693B80C4F6B1A2cAE506D70",
+    "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x35ce9acA84fD0A83C693B80C4F6B1A2cAE506D70",
     "NETWORK": {
         "NAME": "Polygon",
         "SYMBOL": "MATIC",
